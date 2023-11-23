@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+header {
+  background-color: #46b7a0;
+  width: 70%;
+  margin-left: 198px;
+}
+
+header img{
+  background-color: #0c0e0d;
+  width: 400px ;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  margin-left: 40%;
+  margin-right: 60%;
+  margin-top: 10px;
+}
